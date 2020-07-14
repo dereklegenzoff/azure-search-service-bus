@@ -23,7 +23,7 @@ The data generated is fictional contacts in the following format:
     "Id": "",
     "FirstName": "",
     "LastName": "",
-    "EmailAddress": "",
+    "Email": "",
     "PhoneNumber": "",
     "ZipCode": ""
 }
